@@ -1,7 +1,7 @@
 # BMWInternReport2025
 
 ## 🚀 Overview  
-**BMW_EVChargerInternReport2025** documents my internship at BMW Group as an Electronics Engineer Intern. The internship focuses on benchmarking, reverse engineering, and performance analysis of AC wall-mounted electric vehicle chargers. Tasks include hardware teardown, embedded firmware analysis, reparability assessments, and systems-level testing of smart charging features.
+**BMWInternReport2025** documents my internship at BMW Group as an Electronics Engineer Intern. The internship focuses on benchmarking, reverse engineering, and performance analysis of AC wall-mounted electric vehicle chargers. Tasks include hardware teardown, embedded firmware analysis, reparability assessments, and systems-level testing of smart charging features.
 
 ## 🎯 Purpose  
 - 🔍 **Benchmarking**: Technical evaluation of commercial EV chargers through standardized test procedures.  
